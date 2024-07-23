@@ -1,0 +1,23 @@
+.skill{
+    margin-left: 60%;
+}
+.sign button{
+    margin-left: 8%; 
+    border-radius: 30%;
+}
+.message{
+    height: 150px;
+}
+.main{
+
+    width: 100%;
+   
+}
+.nav-i i{
+color: white;
+background-color:blue;
+margin-left: 30px;
+margin-top: 30px;
+font-size: 20px;
+margin-inline-start: 450px;
+}
